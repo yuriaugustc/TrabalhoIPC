@@ -1,0 +1,22 @@
+------------ Lista de Cadastro -----------------
+------------------------------------------------
+Matrícula: 11921BSI244
+Nome: Yuri Augusto
+Email: yuri.costa@ufu.br
+------------------------------------------------
+Matrícula: 11921BSI262
+Nome: Victor alves
+Email: victor.alves@ufu.br
+------------------------------------------------
+Matrícula: 11921BSI215
+Nome: Joao Lucas
+Email: joao.lucas@ufu.br
+------------------------------------------------
+Matrícula: 11921BSI262
+Nome: Victor Alves
+Email: victor.alves@ufu.br
+------------------------------------------------
+Matrícula: 11921BSI215
+Nome: Joao Lucas
+Email: joao.lucas@ufu.br
+------------------------------------------------

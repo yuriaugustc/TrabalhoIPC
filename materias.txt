@@ -1,0 +1,58 @@
+-----------------------------------------------
+-----------------------------------------------
+1° Período:
+Introdução à Programação de Computadores
+Empreendedorismo em Informática
+Introdução aos Sistemas de Informação
+Programação Funcional
+Lógica para Computação
+-----------------------------------------------
+2° Período:
+Estrutura de Dados 1
+Matemática 1
+Sistemas Digitais
+Profissão em Sistemas de Informação
+Programação Lógica
+-----------------------------------------------
+3° Período:
+Estrutura de Dados 2
+Matemática 2
+Arquitetura e Organização de Computadores
+Matemática para Ciência da Computação
+Programação Orientada a Objetos 1
+-----------------------------------------------
+4° Período:
+Banco de Dados 1
+Estatística
+Sistemas Operacionais
+Programação para Internet
+Programação Orientada a Objetos 2
+-----------------------------------------------
+5° Período:
+Banco de Dados 2
+Matemática Financeira e Análise de Investimentos
+Redes de Computadores
+Organização e Recuperação da Informação
+Modelagem de Software
+-----------------------------------------------
+6° Período:
+Gestão Empresarial
+Otimização
+Sistemas Distribuídos
+Contabilidade e Análise de Balanços
+Engenharia de Software
+-----------------------------------------------
+7° Período:
+Economia
+Fundamentos de Marketing
+Gerência de Projetos de Tecnologia da Informação
+Projeto e Desenvolvimento de Sistemas de Informação 1
+Trabalho de Conclusão de Curso I
+-----------------------------------------------
+8° Período:
+Auditoria e Segurança da Informação
+Direito e Legislação
+Interação Humano-Computador
+Projeto e Desenvolvimento de Sistemas de Informação 2
+Trabalho de Conclusão de Curso II
+-----------------------------------------------

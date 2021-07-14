@@ -1,0 +1,7 @@
+----- Lista de Matrícula no Curso ------
+----------------------------------------
+Matrícula: 11921BSI244
+Matéria(s) matrículada(s): Programacao Funcional
+Matéria(s) matrículada(s): Introducao a Programacao de Computadores
+Matéria(s) matrículada(s): Empreendedorismo
+-------------------------------------------
